@@ -3,6 +3,7 @@ G=[
 ("Tiermedizin",[
 ("Tiermedizin in Zahlen","https://tiermedizin-in-zahlen.org/","Tierärzte, Praxen und Haustiere in Zahlen, jede mit Quelle"),
 ("GDT Viewer","https://freimoser.github.io/gdt-viewer/","GDT-Dateien im Browser lesen und Testdaten erzeugen"),
+("Marktübersicht digitale Tierarztpraxis","https://freimoser.github.io/marktuebersicht-tierarztpraxis/","47 digitale Lösungen für Tierarztpraxen, alphabetisch und ohne Bewertung"),
 ]),
 ("Ratgeber",[
 ("BierDurst","https://bierdurst.org/","Biersorten, Vergleiche, Rechner und Oktoberfest-Infos"),

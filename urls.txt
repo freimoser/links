@@ -1,5 +1,6 @@
 https://tiermedizin-in-zahlen.org/
 https://freimoser.github.io/gdt-viewer/
+https://freimoser.github.io/marktuebersicht-tierarztpraxis/
 https://bierdurst.org/
 https://zecken-finden.org/
 https://wasserfasten.fyi/
