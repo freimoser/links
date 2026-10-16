@@ -18,6 +18,7 @@ G=[
 ("Solvitalk","https://solvitalk.com/","25 Minuten spazieren und reden, per Google Meet"),
 ("LDT & BDT Viewer","https://freimoser.github.io/ldt-bdt-viewer/","Labor- und Praxisdaten-Exporte im Browser lesen, ohne Upload"),
 ("E-Rechnung Klartext","https://freimoser.github.io/e-rechnung-klartext/","XRechnung und ZUGFeRD lesbar anzeigen, ohne Upload"),
+("DICOM Viewer","https://freimoser.github.io/dicom-viewer/","Röntgen-, CT- und MRT-Bilder und Radiologie-CDs im Browser ansehen, ohne Upload"),
 ("ICS Editor","https://freimoser.github.io/ics-editor/","Kalenderdateien im Browser bearbeiten, ohne Upload"),
 ("Easy Photo Editor","https://freimoser.github.io/easy-photo-editor/","Druckfertige Collagen für Fotoabzüge im Browser"),
 ("Journey Journal","https://freimoser.github.io/journey-journal-web/","Privates Tagebuch für die eigene Transformation"),
