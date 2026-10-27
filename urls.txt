@@ -13,6 +13,7 @@ https://solvitalk.com/
 https://freimoser.github.io/ldt-bdt-viewer/
 https://freimoser.github.io/e-rechnung-klartext/
 https://freimoser.github.io/dicom-viewer/
+https://freimoser.github.io/dicom-viewer/#beispiele
 https://freimoser.github.io/ics-editor/
 https://freimoser.github.io/easy-photo-editor/
 https://freimoser.github.io/journey-journal-web/
